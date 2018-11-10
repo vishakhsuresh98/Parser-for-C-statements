@@ -1,0 +1,27 @@
+Syntactic Analysis
+******************
+
+The yacc program checks if the inputted code snippet (with C expressions and iterations) is syntactically correct or not
+
+
+Output format
+*************
+
+0 - Inputted snippet is syntactically correct
+1 - Inputted snippet is syntactically incorrect
+
+
+To run the lex program
+********************** 
+
+1. Go the directory where the file is present.
+
+2. To build the program, type make into the terminal.
+
+3. The program has now been built and the executable file parser is ready.
+
+4. To run the executable file, type
+   ./parser <Input .c file>
+
+5. To remove the unnecessay files, type make remove into the terminal
+
