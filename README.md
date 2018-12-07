@@ -2,14 +2,12 @@
 This is a yacc program to parse C expressions and iterative statements.
 .i.e. check if the inputted code snippet is syntactically correct or not
 
-Getting Started
----------------
-Input file:
------------
+Input file
+----------
 The input.txt file contains the code snippet which have to be verified against the parser.
 
-Output format:
---------------
+Output format
+-------------
 0 - Inputted snippet is syntactically correct
 1 - Inputted snippet is syntactically incorrect
    
