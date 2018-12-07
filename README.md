@@ -5,8 +5,11 @@ This is a yacc program to parse C expressions and iterative statements.
 Getting Started
 ---------------
 Input file:
+-----------
 The input.txt file contains the code snippet which have to be verified against the parser.
+
 Output format:
+--------------
 0 - Inputted snippet is syntactically correct
 1 - Inputted snippet is syntactically incorrect
    
